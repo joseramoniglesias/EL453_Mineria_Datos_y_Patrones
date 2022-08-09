@@ -1,4 +1,4 @@
-# Electivas-EL453
+# Electiva-EL453 Procesamiento de Señale I
 Curso de Ciencia de datos 1 2022-2
 ## Planificación del Curso por Días
 
