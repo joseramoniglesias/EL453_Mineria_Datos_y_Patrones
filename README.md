@@ -2,22 +2,18 @@
 # Curso de Ciencia de datos 1 2022-2
 ## Planificación del Curso por Días
 
-### Clase 01 Vi 04-Mar 2022:
-* 01. Programa del Curso [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
-* 01. Presentación del Curso [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
-
 ### Clase 01 Vie. 26-Ago-2022:
 * 0.1-Programa del curso [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
-* 0.1-Presentacion del curso [PPT](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Generales/Programa/TRAT00_Presentacion.pdf)
-* 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [Book]
-* 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book]
-* 0.1-Libro: Deep Learning (Goodfellow, 2016) [Book]
-* 0.1-Libro: Computer Vision (Szeliski, 2010) [Book]
+* 0.1-Presentacion del curso [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT00_Presentacion.pdf)
+* 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
+* 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
+* 0.1-Libro: Deep Learning (Goodfellow, 2016) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/deeplearningbook.pdf)
+* 0.1-Libro: Computer Vision (Szeliski, 2010) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/SzeliskiBook_20100903_draft.pdf)
 * 1.1-Ejercicio vision humana [PPT]
 
 ### Clase 02 Sab. 27-Ago-2022:
-* 1.2-Ejemplo practico [PPT]
-* 1.5-Definiciones [PPT]
+* 1.2-Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_EjemploMandarinas.pdf)
+* 1.5-Definiciones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_Definiciones.pdf)
 * 1.1-Vision humana / Vision por computador [PPT]
 
 ### Clase 03 Vie. 2-Sep-2022:
