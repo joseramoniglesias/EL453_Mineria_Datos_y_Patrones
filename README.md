@@ -23,60 +23,59 @@
 * 1.4-Esquema basico de reconocimiento de patrones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_PR_Methodologia.pdf)
 
 ### Clase 04 Sab. 3-Sep-2022:
-* 2.1-Caracteristicas geometricas [PPT]
-* 2.1-Caracteristicas geometricas [Paper]
+* 2.1-Caracteristicas geometricas [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_GeometricFeatures.pdf)
+* 2.1-Caracteristicas geometricas [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_GeometricFeatures_paper.pdf)
 * 2.1-Ejemplo sobre caracteristicas geometricas [Colab]
-* 2.1-Momentos de Flusser [Paper]
-* 2.1-Momentos de Hu [Paper]
+* 2.1-Momentos de Flusser [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Flusser_Moments.pdf)
+* 2.1-Momentos de Hu [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Hu_Moments.pdf)
 
 ### Clase 05 Vie. 9-Sep-2022:
-* 2.1-Descriptores de Fourier [Tablero]
-* 2.1-Descriptores de Fourier [PPT]
+* 2.1-Descriptores de Fourier [Tablero](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_DescriptoresFourier_Tablero.pdf)
+* 2.1-Descriptores de Fourier [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_DescriptoresFourier.pdf)
 * 2.1-Ejemplo sobre descriptores de Fourier [Colab]
-* 2.2-Local Binary Patterns [PPT]
-* 2.2-Paper de LBP [Paper]
+* 2.2-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns.pdf)
+* 2.2-Paper de LBP [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/LBP_faces.pdf)
 
 ### Clase 06 Sab 10-Sep-2022:
-* 2.2-Local Binary Patterns [PPT]
+* 2.2-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns.pdf)
 * 2.2-Ejemplo sobre LBP en reconocimiento facial [Colab]
-* 2.2-Local Binary Patterns (invariante a la rotacion) [PPT]
-* 2.2-Lectura complementaria de LBP [Paper]
+* 2.2-Local Binary Patterns (invariante a la rotacion) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns_ri.pdf)
+* 2.2-Lectura complementaria de LBP [Paper](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 
 ### Clase 07 Vie. 16-Sep-2022:
-* 2.2-Caracteristicas de textura de Haralick [PPT]
-* 2.2-Paper de Haralick [Paper]
-* 2.2-Caracteristicas de Gabor [PPT]
-* 2.2-Paper de Gabor [Paper]
-* 2.2-Aplicacion de caracteristicas de Gabor [Paper]
+* 2.2-Caracteristicas de textura de Haralick [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_HaralickTexture.pdf)
+* 2.2-Paper de Haralick [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Haralick_Textures.pdf)
+* 2.2-Caracteristicas de Gabor [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_Gabor.pdf)
+* 2.2-Paper de Gabor [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Manjunath_GaborFeatures1996.pdf)
+* 2.2-Aplicacion de caracteristicas de Gabor [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Gabor_Application.pdf)
 * 2.2-Ejemplo sobre reconocimiento de texturas [Colab]
-* 2.2-Video experimento con gatos (1/2) [Video]
-* 2.2-Video experimento con gatos (2/2) [Video]
-* 2.2-Comparacion de caracteristicas de textura [Paper]
+* 2.2-Video experimento con gatos (1/2) [Video](https://www.youtube.com/watch?v=IOHayh06LJ4)
+* 2.2-Video experimento con gatos (2/2) [Video](https://www.youtube.com/watch?v=QzkMo45pcUo)
+* 2.2-Comparacion de caracteristicas de textura [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Randen_ComparativeTextures.pdf)
 
 ### Clase 08 Sab. 17-Sep-2022:
 * 2.2-Ejercicico 04 sobre deteccion de caras [Colab]
 * 2.2-Solucion al Ejercicio 04 [Colab]
 
 ### Clase 09 Vie. 23-Sep-2022:
-* 2.2-Histogram of Gradients (HoG) [PPT]
-* 2.2-Paper HoG [Paper]
+* 2.2-Histogram of Gradients (HoG) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_HoG_HumanDetection.pdf)
+* 2.2-Paper HoG [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/HoG_DalalTriggs.pdf)
 * 2.2-Deteccion de peatones usando HoG [Colab]
-* 2.2-SIFT (Intro) [PPT]
-* 2.2-Paper SIFT [PPT]
+* 2.2-SIFT (Intro) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_SIFT_ObjectDetection.pdf)
+* 2.2-Paper SIFT [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Lowe_SIFT.pdf)
 * 2.2-Reconocimiento de vacas usando SIFT [Colab]
 * 2.2-Implementacion de HoG en Python con OpenCV [phyton]
 
 ### Clase 10 Sab. 24-Sep-2022:
-* 2.2-SIFT [PPT]
+* 2.2-SIFT [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_SIFT_ObjectDetection.pdf)
 * 2.2-Reconocimiento de vacas usando SIFT [Colab]
 * 2.2-Ejercicico 05 sobre deteccion de paredes rayadas [Colab]
 * 2.2-Solucion al Ejercicio 05 [Colab]
 
 ### Clase 11 Vie. 30-Sep-2022:
-* 2.2-Caracteristicas de intensidad [PPT]
-* 2.2-Caracteristicas de intensidad [Paper]
-* 2.2-Crossing Line Profile (CLP) [PPT]
-* 2.2-Crossing Line Profile (CLP) [Paper]
+* 2.2-Caracteristicas de intensidad [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_IntensityFeatures_Diap.pdf)
+* 2.2-Caracteristicas de intensidad [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/PAT02_IntensityFeatures.pdf)
+* 2.2-Perfil de Línea de Cruce -Crossing Line Profile (CLP)- [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_CrossingLineProfiles.pdf)
 * 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [Colab]
 
 ### Clase 12 Sab. 1-Oct-2022:
