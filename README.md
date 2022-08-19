@@ -9,18 +9,18 @@
 * 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 0.1-Libro: Deep Learning (Goodfellow, 2016) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/deeplearningbook.pdf)
 * 0.1-Libro: Computer Vision (Szeliski, 2010) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/SzeliskiBook_20100903_draft.pdf)
-* 1.1-Ejercicio vision humana [PPT]
+* 1.1-Ejercicio vision humana [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_EjercicioReconocimiento.pdf)
 
 ### Clase 02 Sab. 27-Ago-2022:
 * 1.2-Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_EjemploMandarinas.pdf)
 * 1.5-Definiciones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_Definiciones.pdf)
-* 1.1-Vision humana / Vision por computador [PPT]
+* 1.1-Vision humana / Vision por computador [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_Chihuahua_or_Muffin.pdf)
 
 ### Clase 03 Vie. 2-Sep-2022:
-* 1.3-Formulacion metodologica [PPT]
-* 1.3-Lectura complementaria [PDF]
+* 1.3-Formulacion metodologica [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_FormulacionMetodologia.pdf)
+* 1.3-Lectura complementaria [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/Jain_StatisticalPatternRecognition_2000.pdf)
 * 1.2-Ejemplo separacion de dos letras [Colab]
-* 1.4-Esquema basico de reconocimiento de patrones [PPT]
+* 1.4-Esquema basico de reconocimiento de patrones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_PR_Methodologia.pdf)
 
 ### Clase 04 Sab. 3-Sep-2022:
 * 2.1-Caracteristicas geometricas [PPT]
