@@ -3,7 +3,7 @@
 ## Planificación del Curso por Días
 
 ### Clase 01 Vie. 26-Ago-2022:
-* 0.1-Programa del curso [PDF](https://github.com/joseramoniglesias/tratamiento/blob/main/clases/Generales/Programa/PLAN%20DE%20ASIGNATURA_EL442_TRATAMIENTO_SE%C3%91ALES_2021_Corregido.pdf)
+* 0.1-Programa del curso [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PLAN_DE_ASIGNATURA_EL453_Procesamiento_de_Se%C3%B1ales_I_2022.pdf)
 * 0.1-Presentacion del curso [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT00_Presentacion.pdf)
 * 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
