@@ -5,7 +5,7 @@ El objetivo de esta tarea es diseñar y evaluar un reconocedor automático de la
 
 ## Descripción
 
-En este [archivo zip] (https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Tareas/Tarea_1/letras.zip) se encuentran 100 imágenes de cada una de las cinco letras. Algunas de ellas se muestran a continuación:
+En este [archivo zip] [(https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Tareas/Tarea_1/letras.zip)] se encuentran 100 imágenes de cada una de las cinco letras. Algunas de ellas se muestran a continuación:
 
 ![image](https://user-images.githubusercontent.com/38440709/186747306-902ea57d-1a03-4cb0-acb8-5234d24aaa72.png)
 
