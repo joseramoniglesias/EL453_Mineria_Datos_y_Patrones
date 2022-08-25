@@ -10,6 +10,9 @@
 * 0.1-Libro: Deep Learning (Goodfellow, 2016) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/deeplearningbook.pdf)
 * 0.1-Libro: Computer Vision (Szeliski, 2010) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/SzeliskiBook_20100903_draft.pdf)
 * 1.1-Ejercicio vision humana [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_EjercicioReconocimiento.pdf)
+* 1.2 Descargar Anaconda [Internet](https://www.anaconda.com/)
+* 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
+* 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
 ### Clase 02 Sab. 27-Ago-2022:
 * 1.2-Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_EjemploMandarinas.pdf)
