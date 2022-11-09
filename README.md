@@ -134,11 +134,11 @@
 * 4.2-Ejercicio en clases 
 
 ### Clase 20 Sab. 29-Oct-2022:
-* 4.6-Redes Neuronales [PPT]
-* 4.6-Algoritmo Backpropagation [Apuntes]
-* 4.6-Clasificador basado en Redes Neuornales [Colab]
-* 4.6-Ejemplo NN en MNIST con pytorch [Colab]
-* 4.6-Libro de Neural Networks and Deep Learning [Book]
+* 4.6-Redes Neuronales [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_NeuralNetworks.pdf)
+* 4.6-Algoritmo Backpropagation [Apuntes](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_BackPropagation.pdf)
+* 4.6-Clasificador basado en Redes Neuronales [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_RedesNeuronales.ipynb)
+* 4.6-Ejemplo NN en MNIST con pytorch [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_NN_MNIST.ipynb)
+* 4.6-Libro de Neural Networks and Deep Learning [Book](https://link.springer.com/book/10.1007/978-3-319-94463-0)
 
 ### Clase 21 Vie. 04-Nov-2022:
 * 4.7-Deep Learning [PPT]
