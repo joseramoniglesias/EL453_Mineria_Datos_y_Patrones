@@ -57,7 +57,7 @@
 * 2.2-Comparacion de caracteristicas de textura [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Randen_ComparativeTextures.pdf)
 
 ### Clase 08 Sab. 17-Sep-2022:
-* 2.2-Ejercicico 04 sobre deteccion de caras [Colab]
+* 2.2-Ejercicico 04 sobre deteccion de caras [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/Numero_Alumnx_Eje04.ipynb)
 * 2.2-Solucion al Ejercicio 04 [Colab]
 
 ### Clase 09 Vie. 23-Sep-2022:
@@ -79,7 +79,7 @@
 * 2.2-Caracteristicas de intensidad [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_IntensityFeatures_Diap.pdf)
 * 2.2-Caracteristicas de intensidad [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/PAT02_IntensityFeatures.pdf)
 * 2.2-Perfil de Línea de Cruce -Crossing Line Profile (CLP)- [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_CrossingLineProfiles.pdf)
-* 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [Colab]
+* 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_Intensity_Contrast_CLP.ipynb)
 
 ### Clase 12 Sab. 1-Oct-2022:
 * 3.1-Introduccion a la Seleccion de Caracteristicas [Apuntes]
