@@ -139,12 +139,11 @@
 * 4.6-Libro de Neural Networks and Deep Learning [Book](https://link.springer.com/book/10.1007/978-3-319-94463-0)
 
 ### Clase 21 Vie. 04-Nov-2022:
-* 4.7-Deep Learning [PPT]
-* 4.7-Ejemplo CNN basico (ojo vs. nariz) [Colab]
-* 4.7-Ejemplo CNN basico (MNIST) [Colab]
-* 4.7-Ejemplo CNN simple (defectos en llantas) [Colab]
-* 4.7-Explicacion de CNN gatos vs. perros [Nota]
-* 4.7-Ejemplo CNN intermedio (gatos vs. perros) [Colab]
+* 4.7-Deep Learning [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_DeepLearning.pdf)
+* 4.7-Ejemplo CNN basico (ojo vs. nariz) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/CV03_CNN_PyTorch_EyeNose.ipynb)
+* 4.7-Ejemplo CNN basico (MNIST) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_NN_MNIST.ipynb)
+* 4.7-Explicacion de CNN gatos vs. perros [Nota](https://www.kaggle.com/code/reukki/pytorch-cnn-tutorial-with-cats-and-dogs/notebook)
+* 4.7-Ejemplo CNN intermedio (gatos vs. perros) [Jupiter]()
 * 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [Colab]
 * 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [Colab]
 * 7.1-Descripcion de Proyecto [Proyecto]
