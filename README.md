@@ -143,24 +143,22 @@
 * 4.7-Ejemplo CNN basico (ojo vs. nariz) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/CV03_CNN_PyTorch_EyeNose.ipynb)
 * 4.7-Ejemplo CNN basico (MNIST) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_NN_MNIST.ipynb)
 * 4.7-Explicacion de CNN gatos vs. perros [Nota](https://www.kaggle.com/code/reukki/pytorch-cnn-tutorial-with-cats-and-dogs/notebook)
-* 4.7-Ejemplo CNN intermedio (gatos vs. perros) [Jupiter]()
-* 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [Colab]
-* 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [Colab]
-* 7.1-Descripcion de Proyecto [Proyecto]
+* 4.7-Ejemplo CNN intermedio (gatos vs. perros) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/CV03_CNN_PyTorch_CatsDogs.ipynb)
+* 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/CV03_CNN_PyTorch_Lunares2.ipynb)
+* 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/CV03_CNN_PyTorch_Lunares7.ipynb)
+* 7.1-Descripcion de Proyecto [Proyecto]()
 
 ### Clase 22 Sab. 05-Nov-2022:
-* 2.1-Ejemplo de como extraer caracteristicas en directorios [Colab]
-* 4.5-Introduccion a SVM [PPT]
-* 4.5-Teoria sobre SVM [Apuntes]
-* 4.5-Teoria sobre SVM [Paper]
-* 4.5-Teoria sobre SVM [Paper]
-* 4.5-Tutorial de SVM en phyton [YouTube]
-* 4.5-Video de teoria de SVM (MIT lesson) [YouTube]
-* 4.5-Ejemplo de SVM con sklearn [Colab]
+* 4.5-Introduccion a SVM [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_SVM.pdf)
+* 4.5-Teoria sobre SVM [Apuntes](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_SVM_Theory.pdf)
+* 4.5-Teoria sobre SVM [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_SVM_new.pdf)
+* 4.5-Tutorial de SVM en phyton [YouTube]([https://www.youtube.com/watch?v=_PwhiWxHK8o](https://www.youtube.com/watch?v=N1vOgolbjSc))
+* 4.5-Video de teoria de SVM (MIT lesson) [YouTube](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+* 4.5-Ejemplo de SVM con sklearn [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_SVM.ipynb)
 
 ### Clase 23 Vie. 11-Nov-2022:
-* 5.5-Estimacion de Accuracy [PPT]
-* 5.5-Ejemplo de estimacion de accuracy [Colab]
+* 5.5-Estimacion de Accuracy [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_AccuracyEstimation.pdf)
+* 5.5-Ejemplo de estimacion de accuracy [Jupiter]
 * 5.5-Seleccion de Modelos [PDF]
 
 ### Clase 24 Sab. 12-Nov-2022:
