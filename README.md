@@ -63,16 +63,16 @@
 ### Clase 09 Vie. 23-Sep-2022:
 * 2.2-Histogram of Gradients (HoG) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_HoG_HumanDetection.pdf)
 * 2.2-Paper HoG [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/HoG_DalalTriggs.pdf)
-* 2.2-Deteccion de peatones usando HoG [Colab]
+* 2.2-Deteccion de peatones usando HoG [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_DeteccionPeatones_HoG.ipynb)
 * 2.2-SIFT (Intro) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_SIFT_ObjectDetection.pdf)
 * 2.2-Paper SIFT [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Lowe_SIFT.pdf)
-* 2.2-Reconocimiento de vacas usando SIFT [Colab]
+* 2.2-Reconocimiento de vacas usando SIFT [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_BiometriaVacas_SIFT.ipynb)
 * 2.2-Implementacion de HoG en Python con OpenCV [phyton]
 
 ### Clase 10 Sab. 24-Sep-2022:
 * 2.2-SIFT [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_SIFT_ObjectDetection.pdf)
 * 2.2-Reconocimiento de vacas usando SIFT [Colab]
-* 2.2-Ejercicico 05 sobre deteccion de paredes rayadas [Colab]
+* 2.2-Ejercicico 05 sobre deteccion de paredes rayadas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_Ejercicio05_DeteccionRayas.ipynb)
 * 2.2-Solucion al Ejercicio 05 [Colab]
 
 ### Clase 11 Vie. 30-Sep-2022:
