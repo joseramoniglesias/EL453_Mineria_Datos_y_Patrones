@@ -94,40 +94,39 @@
 * 3.5-Ejemplo de Seleccion de Caracteristicas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/PAT03_Letras_SFS.ipynb)
 
 ### Clase 14 Sab. 8-Oct-2022:
-3.3-Discriminante Fihser y Matrices de Covarianza [PPT]
-3.3-Discriminante Fihser y Matrices de Covarianza [Apuntes]
-3.7-Branch and Bound [PPT]
+3.3-Discriminante Fihser y Matrices de Covarianza [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Fisher_Covarianzas.pdf)
+3.3-Discriminante Fihser y Matrices de Covarianza [Apuntes](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Fisher_Covarianzas_paper.pdf)
+3.7-Branch and Bound [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_BranchAndBound.pdf)
 
 ### Clase 15 Vie. 14-Oct-2022:
-* 3.4-Seleccion versus Transformacion [PPT]
-* 3.5-Principal Components Analysis PCA [PPT]
-* 3.4-Ejemplo de PCA, ICA, PLSR [Colab]
-* 3.4-ICA [Apuntes]
+* 3.4-Seleccion versus Transformacion [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Models.pdf)
+* 3.5-Principal Components Analysis PCA [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_PCA.pdf)
+* 3.4-Ejemplo de PCA, ICA, PLSR [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/PAT03_FaceRecognition_LBP_PCA.ipynb)
+* 3.4-ICA [Apuntes](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 
 ### Clase 16 Sab. 15-Oct-2022:
-* 3.1-Esquema general con seleccion de caracteristicas [Apuntes]
-* 3.5-Bateria de Ejemplos de Seleccion de Caracteristicas [Colab]
-* 3.1-How to Perform Feature Selection With Numerical Input Data [Apuntes]
-* 3.1-Libreria PyBalu en Python [Libreria]
-* 3.1-Libreria sklearn para Feature Selection [Libreria]
-* 3.1-Libreria mlxtend [Python]
-* 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas [Colab]
-* 3.5-Esquema del Ejercicio 08 [PPT]
-* 3.5-Solucion al Ejercicio 08 [Colab]
+* 3.1-Esquema general con seleccion de caracteristicas [Apuntes](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_GeneralSchema.pdf)
+* 3.5-Bateria de Ejemplos de Seleccion de Caracteristicas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/PAT04_Clasificadores_Basicos.ipynb)
+* 3.1-How to Perform Feature Selection With Numerical Input Data [Apuntes](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
+* 3.1-Libreria sklearn para Feature Selection [Libreria](https://scikit-learn.org/stable/modules/feature_selection.html)
+* 3.1-Libreria mlxtend [Python](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
+* 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/Numero_Alumnx_Eje08.ipynb)
+* 3.5-Esquema del Ejercicio 08 [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Ejercicio08.pdf)
+* 3.5-Solucion al Ejercicio 08 [Jupiter]
 
 ### Clase 17 Vie. 21-Oct-2022:
-* 4.1-Introduccion [PPT]
-* 4.2-Clasificador KNN - vecino mas cercano [PPT]
-* 4.2-Clasificador DMIN - distancia minima [PPT]
-* 4.4-Clasificador de Bayes [PPT]
-* 4.2-Clasificadores basicos [Colab]
+* 4.1-Introduccion [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_intro.pdf)
+* 4.2-Clasificador KNN - vecino mas cercano [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_KNN.pdf)
+* 4.2-Clasificador DMIN - distancia minima [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_dmin.pdf)
+* 4.4-Clasificador de Bayes [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_Bayes.pdf)
+* 4.2-Clasificadores basicos [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_Clasificadores_Basicos.ipynb)
 
 ### Clase 18 Sab. 22-Oct-2022:
-* 4.3-Clasificadores LDA, QDA, Mahalanobis [PPT]
-* 4.3-Arboles de decision [PPT]
-* 4.1-Entropia [YouTube]
-* 4.2-Clasificadores basicos [Colab]
-* 4.1-Visualizacion del espacio de caracteristicas [Colab]
+* 4.3-Clasificadores LDA, QDA, Mahalanobis [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_LDA.pdf)
+* 4.3-Arboles de decision [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_Trees.pdf)
+* 4.1-Entropia [YouTube](https://www.youtube.com/watch?v=9r7FIXEAGvs)
+* 4.2-Clasificadores basicos [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_Clasificadores_Basicos.ipynb)
+* 4.1-Visualizacion del espacio de caracteristicas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_Visualizaciones.ipynb)
 
 ### Clase 19 Vie. 28-Oct-2022:
 * 4.2-Ejercicio en clases 
