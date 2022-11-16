@@ -82,17 +82,16 @@
 * 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_Intensity_Contrast_CLP.ipynb)
 
 ### Clase 12 Sab. 1-Oct-2022:
-* 3.1-Introduccion a la Seleccion de Caracteristicas [Apuntes]
-* 3.1-Introduccion a la Seleccion de Caracteristicas [PPT]
-* 3.1-Introduccion a la Seleccion de Caracteristicas [Paper]
-* 3.4-Busqueda Exhaustiva [PPT]
-* 3.4-Ejercicico 06 sobre deteccion de espinas en filetes de salmon [Colab]
-* 3.4-Solucion al Ejercicio 06 [Colab]
+* 3.1-Introduccion a la Seleccion de Caracteristicas [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_FeatureSelection_Intro_Diap.pdf)
+* 3.1-Introduccion a la Seleccion de Caracteristicas [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_FeatureSelection.pdf)
+* 3.4-Busqueda Exhaustiva [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_ExSearch.pdf)
+* 3.4-Ejercicico 06 sobre deteccion de espinas en filetes de salmon [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/Numero_Alumnx_Eje06.ipynb)
+* 3.4-Solucion al Ejercicio 06 [Jupiter]
 
 ### Clase 13 Vie. 7-Oct-2022:
-* 3.1-Clean: Limpieza de datos [PPT]
-* 3.5-SFS [PPT]
-* 3.5-Ejemplo de Seleccion de Caracteristicas [Colab]
+* 3.1-Clean: Limpieza de datos [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Clean.pdf)
+* 3.5-SFS [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_SFS.pdf)
+* 3.5-Ejemplo de Seleccion de Caracteristicas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/PAT03_Letras_SFS.ipynb)
 
 ### Clase 14 Sab. 8-Oct-2022:
 3.3-Discriminante Fihser y Matrices de Covarianza [PPT]
