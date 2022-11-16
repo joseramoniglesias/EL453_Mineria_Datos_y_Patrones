@@ -159,17 +159,17 @@
 ### Clase 23 Vie. 11-Nov-2022:
 * 5.5-Estimacion de Accuracy [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_AccuracyEstimation.pdf)
 * 5.5-Ejemplo de estimacion de accuracy [Jupiter]
-* 5.5-Seleccion de Modelos [PDF]
+* 5.5-Seleccion de Modelos [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_ModelSelector.pdf)
 
 ### Clase 24 Sab. 12-Nov-2022:
-* 5.2-Matriz de Confusion [PPT]
+* 5.2-Matriz de Confusion [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_ConfusionMatrix.pdf)
 * 5.3-Ejercicio en clases 
 
 ### Clase 25 Vie. 18-Nov-2022:
-* 7.1-Analisis Facial [PPT]
-* 5.3-Metricas de Genuinos vs. Impostores [PPT]
-* 5.3-Metricas de Genuinos vs. Impostores [PDF]
-* 5.3-Ejemplo de ArcFace y metricas de evaluacion [Colab]
+* 7.1-Analisis Facial [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/2021_AnalisisFacial_Teaching.pdf)
+* 5.3-Metricas de Genuinos vs. Impostores [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_Genuine_Impostor.pdf)
+* 5.3-Metricas de Genuinos vs. Impostores [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
+* 5.3-Ejemplo de ArcFace y metricas de evaluacion [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Pyton/PAT05_ArcFace.ipynb)
 
 ### Clase 26 Sab. 19-Nov-2022:
 * 7.1-Como hacer el proyecto [PPT]
