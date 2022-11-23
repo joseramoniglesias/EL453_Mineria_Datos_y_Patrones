@@ -173,15 +173,15 @@
 
 ### Clase 26 Sab. 19-Nov-2022:
 * 7.1-Como hacer el proyecto [PPT]
-* 7.1-Machine Learning Yearing (Libro) [Book]
+* 7.1-Machine Learning Yearing (Libro) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Libros/NG-MLY01_13.pdf)
 
 ### Clase 27 Vie. 25-Nov-2022:
-* 6.2-Clustering: K-Means [PPT]
-* 6.2-Clustering: Hierarchic [PPT]
-* 6.2-Clustering: Mixture of Gaussians [PPT]
-* 6.2-Clustering: Mean Shift [PPT]
-* 6.2-Ejemplos de Clustering [Colab]
-* 6.2-Ejemplo de Face-Clusering [Colab]
+* 6.2-Clustering: K-Means [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_KMeans.pdf)
+* 6.2-Clustering: Hierarchic [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_Hierarchic.pdf)
+* 6.2-Clustering: Mixture of Gaussians [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_GaussMix.pdf)
+* 6.2-Clustering: Mean Shift [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_MeanShift.pdf)
+* 6.2-Ejemplos de Clustering [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Matlab/PAT06_Clustering.ipynb)
+* 6.2-Ejemplo de Face-Clusering [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Matlab/PAT06_FaceClustering.ipynb)
 
 ### Clase 28 Sab. 26-Nov-2022:
 * 6.3-BoW: Bag of Words [PPT]
