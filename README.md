@@ -184,8 +184,8 @@
 * 6.2-Ejemplo de Face-Clusering [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Matlab/PAT06_FaceClustering.ipynb)
 
 ### Clase 28 Sab. 26-Nov-2022:
-* 6.3-BoW: Bag of Words [PPT]
-* 6.3-Ejemplo de Bag of Words [Colab]
+* 6.3-BoW: Bag of Words [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_BoW.pdf)
+* 6.3-Ejemplo de Bag of Words [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Matlab/PAT06_Bag_of_Words.ipynb)
 * 6.3-Ejercicio en clases 
 
 ### Clase 29 Vie. 02-Dic-2022:
