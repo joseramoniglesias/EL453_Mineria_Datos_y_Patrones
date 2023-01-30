@@ -210,8 +210,8 @@
 * 7.1-Presentacion de avances de proyecto (2/2) [Proyecto]
 
 ## Semana 16
-* ### Clase 31 Vie-2.2023
+* ### Clase 31 Vie-2-jun-2023
 * Entrega proyecto
 
-* ### Clase 32 Vie-3.2023
+* ### Clase 32 Vie-3-jun-2023
 * Entrega proyecto
