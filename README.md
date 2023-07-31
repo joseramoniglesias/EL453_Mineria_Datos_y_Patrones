@@ -3,7 +3,7 @@
 ## Planificación del Curso por Días
 
 ## Semana 1
-### Clase 01 Vie. 17-Feb-2023:
+### Clase 01 Vi 11-Ago 2023:
 * 0.1-Programa del curso [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PLAN_DE_ASIGNATURA_EL453_Procesamiento_de_Se%C3%B1ales_I_2022.pdf)
 * 0.1-Presentacion del curso [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT00_Presentacion.pdf)
 * 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
@@ -15,19 +15,19 @@
 * 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 
-### Clase 02 Sab. 18-Feb-2023:
+### Clase 2 Sáb 12-Ago 2023:
 * 1.2-Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_EjemploMandarinas.pdf)
 * 1.5-Definiciones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_Definiciones.pdf)
 * 1.1-Vision humana / Vision por computador [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_Chihuahua_or_Muffin.pdf)
 
 ## Semana 2
-### Clase 03 Vie. 24-Feb-2023:
+### Clase 3 Vie 18-Ago 2023:
 * 1.3-Formulacion metodologica [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_FormulacionMetodologia.pdf)
 * 1.3-Lectura complementaria [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/Jain_StatisticalPatternRecognition_2000.pdf)
 * 1.2-Ejemplo separacion de dos letras [jupiter - Colab](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/CIEDATOS1_Separacion_Letras_JQ.ipynb)
 * 1.4-Esquema basico de reconocimiento de patrones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_PR_Methodologia.pdf)
 
-### Clase 04 Sab. 25-Feb-2023:
+### Clase 4 Sáb 19-Ago 2023:
 * 2.1-Caracteristicas geometricas [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_GeometricFeatures.pdf)
 * 2.1-Caracteristicas geometricas [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_GeometricFeatures_paper.pdf)
 * 2.1-Ejemplo sobre caracteristicas geometricas [Colab]
@@ -35,21 +35,21 @@
 * 2.1-Momentos de Hu [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Hu_Moments.pdf)
 
 ## Semana 3
-### Clase 05 Vie. 3-Mar-2023:
+### Clase 5 Vie 25-Ago 2023:
 * 2.1-Descriptores de Fourier [Tablero](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_DescriptoresFourier_Tablero.pdf)
 * 2.1-Descriptores de Fourier [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_DescriptoresFourier.pdf)
 * 2.1-Ejemplo sobre descriptores de Fourier [Colab]
 * 2.2-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns.pdf)
 * 2.2-Paper de LBP [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/LBP_faces.pdf)
 
-### Clase 06 Sab 4-Mar-2023:
+### Clase 6 Sáb 26-Ago 2023:
 * 2.2-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns.pdf)
 * 2.2-Ejemplo sobre LBP en reconocimiento facial [Colab]
 * 2.2-Local Binary Patterns (invariante a la rotacion) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns_ri.pdf)
 * 2.2-Lectura complementaria de LBP [Paper](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 
 ## Semana 4
-### Clase 07 Vie. 10-Mar-2023:
+### Clase 7 Vie 1-Sep 2023:
 * 2.2-Caracteristicas de textura de Haralick [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_HaralickTexture.pdf)
 * 2.2-Paper de Haralick [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Haralick_Textures.pdf)
 * 2.2-Caracteristicas de Gabor [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_Gabor.pdf)
@@ -60,12 +60,12 @@
 * 2.2-Video experimento con gatos (2/2) [Video](https://www.youtube.com/watch?v=QzkMo45pcUo)
 * 2.2-Comparacion de caracteristicas de textura [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Randen_ComparativeTextures.pdf)
 
-### Clase 08 Sab. 11-Mar-2023:
+### Clase 8 Sáb 2-Sep 2023:
 * 2.2-Ejercicico 04 sobre deteccion de caras [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/Numero_Alumnx_Eje04.ipynb)
 * 2.2-Solucion al Ejercicio 04 [Colab]
 
 ## Semana 5
-### Clase 09 Vie. 17-Mar-2023:
+### Clase 9 Vié  8-Sep 2023:
 * 2.2-Histogram of Gradients (HoG) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_HoG_HumanDetection.pdf)
 * 2.2-Paper HoG [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/HoG_DalalTriggs.pdf)
 * 2.2-Deteccion de peatones usando HoG [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_DeteccionPeatones_HoG.ipynb)
@@ -74,20 +74,20 @@
 * 2.2-Reconocimiento de vacas usando SIFT [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_BiometriaVacas_SIFT.ipynb)
 * 2.2-Implementacion de HoG en Python con OpenCV [phyton]
 
-### Clase 10 Sab. 18-Mar-2023:
+### Clase 10 Sab 9-Sep 2023:
 * 2.2-SIFT [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_SIFT_ObjectDetection.pdf)
 * 2.2-Reconocimiento de vacas usando SIFT [Colab]
 * 2.2-Ejercicico 05 sobre deteccion de paredes rayadas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_Ejercicio05_DeteccionRayas.ipynb)
 * 2.2-Solucion al Ejercicio 05 [Colab]
 
 ## Semana 6
-### Clase 11 Vie. 24-Mar-2023:
+### Clase 11 Vie 15-Sep 2023:
 * 2.2-Caracteristicas de intensidad [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_IntensityFeatures_Diap.pdf)
 * 2.2-Caracteristicas de intensidad [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/PAT02_IntensityFeatures.pdf)
 * 2.2-Perfil de Línea de Cruce -Crossing Line Profile (CLP)- [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_CrossingLineProfiles.pdf)
 * 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_Intensity_Contrast_CLP.ipynb)
 
-### Clase 12 Sab. 25-Mar-2023:
+### Clase 12 Sab 16-Sep-2023:
 * 3.1-Introduccion a la Seleccion de Caracteristicas [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_FeatureSelection_Intro_Diap.pdf)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_FeatureSelection.pdf)
 * 3.4-Busqueda Exhaustiva [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_ExSearch.pdf)
@@ -95,24 +95,24 @@
 * 3.4-Solucion al Ejercicio 06 [Jupiter]
 
 ## Semana 7
-### Clase 13 Vie. 31-Mar-2023:
+### Clase 13 Vie 22-Sep 2023:
 * 3.1-Clean: Limpieza de datos [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Clean.pdf)
 * 3.5-SFS [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_SFS.pdf)
 * 3.5-Ejemplo de Seleccion de Caracteristicas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/PAT03_Letras_SFS.ipynb)
 
-### Clase 14 Sab. 1-Abr-2023:
+### Clase 14 Sab 23-Sep 2023:
 3.3-Discriminante Fihser y Matrices de Covarianza [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Fisher_Covarianzas.pdf)
 3.3-Discriminante Fihser y Matrices de Covarianza [Apuntes](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Fisher_Covarianzas_paper.pdf)
 3.7-Branch and Bound [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_BranchAndBound.pdf)
 
 ## Semana 8
-### Clase 15 Vie. 14-Abr-2023:
+### Clase 15 Vier 29-Sep 2023:
 * 3.4-Seleccion versus Transformacion [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_Models.pdf)
 * 3.5-Principal Components Analysis PCA [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_PCA.pdf)
 * 3.4-Ejemplo de PCA, ICA, PLSR [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/PAT03_FaceRecognition_LBP_PCA.ipynb)
 * 3.4-ICA [Apuntes](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 
-### Clase 16 Sab. 15-Abr-2023:
+### Clase 16 Sab 30-Sep 2023:
 * 3.1-Esquema general con seleccion de caracteristicas [Apuntes](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_GeneralSchema.pdf)
 * 3.5-Bateria de Ejemplos de Seleccion de Caracteristicas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n/PAT04_Clasificadores_Basicos.ipynb)
 * 3.1-How to Perform Feature Selection With Numerical Input Data [Apuntes](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
@@ -123,14 +123,14 @@
 * 3.5-Solucion al Ejercicio 08 [Jupiter]
 
 ## Semana 9
-### Clase 17 Vie. 21-Abr-2023:
+### Clase 17 Vie 6-Oct 2023:
 * 4.1-Introduccion [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_intro.pdf)
 * 4.2-Clasificador KNN - vecino mas cercano [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_KNN.pdf)
 * 4.2-Clasificador DMIN - distancia minima [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_dmin.pdf)
 * 4.4-Clasificador de Bayes [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_Bayes.pdf)
 * 4.2-Clasificadores basicos [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_Clasificadores_Basicos.ipynb)
 
-### Clase 18 Sab. 22-Abr-2023:
+### Clase 18 Sab 7-Oct 2023:
 * 4.3-Clasificadores LDA, QDA, Mahalanobis [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_LDA.pdf)
 * 4.3-Arboles de decision [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_Trees.pdf)
 * 4.1-Entropia [YouTube](https://www.youtube.com/watch?v=9r7FIXEAGvs)
@@ -138,10 +138,10 @@
 * 4.1-Visualizacion del espacio de caracteristicas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_Visualizaciones.ipynb)
 
 ## Semana 10
-### Clase 19 Vie. 21-Abr-2023:
+### Clase 19 Vie 13-Oct 2023:
 * 4.2-Ejercicio en clases 
 
-### Clase 20 Sab. 22-Abr-2023:
+### Clase 20 Sab. 14-Oct-2023:
 * 4.6-Redes Neuronales [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_NeuralNetworks.pdf)
 * 4.6-Algoritmo Backpropagation [Apuntes](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_BackPropagation.pdf)
 * 4.6-Clasificador basado en Redes Neuronales [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_RedesNeuronales.ipynb)
@@ -149,7 +149,7 @@
 * 4.6-Libro de Neural Networks and Deep Learning [Book](https://link.springer.com/book/10.1007/978-3-319-94463-0)
 
 ## Semana 11
-### Clase 21 Vie. 28-Abr-2023:
+### Clase 21 Vie. 20-Oct-2023:
 * 4.7-Deep Learning [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_DeepLearning.pdf)
 * 4.7-Ejemplo CNN basico (ojo vs. nariz) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/CV03_CNN_PyTorch_EyeNose.ipynb)
 * 4.7-Ejemplo CNN basico (MNIST) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_NN_MNIST.ipynb)
@@ -159,7 +159,7 @@
 * 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/CV03_CNN_PyTorch_Lunares7.ipynb)
 * 7.1-Descripcion de Proyecto [Proyecto]()
 
-### Clase 22 Sab. 29-Abr-2023:
+### Clase 22 Sab. 21-Oct-2023:
 * 4.5-Introduccion a SVM [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_SVM.pdf)
 * 4.5-Teoria sobre SVM [Apuntes](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_SVM_Theory.pdf)
 * 4.5-Teoria sobre SVM [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/PAT04_SVM_new.pdf)
@@ -168,28 +168,28 @@
 * 4.5-Ejemplo de SVM con sklearn [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Pit%C3%B3n/PAT04_SVM.ipynb)
 
 ## Semana 12
-### Clase 23 Vie. 5-Mayo-2023:
+### Clase 23 Vie. 27. Oct-2023:
 * 5.5-Estimacion de Accuracy [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_AccuracyEstimation.pdf)
 * 5.5-Ejemplo de estimacion de accuracy [Jupiter]
 * 5.5-Seleccion de Modelos [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_ModelSelector.pdf)
 
-### Clase 24 Sab. 6-Mayo-2023:
+### Clase 24 Sab. 28-Oct-2023:
 * 5.2-Matriz de Confusion [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_ConfusionMatrix.pdf)
 * 5.3-Ejercicio en clases 
 
 ## Semana 13
-### Clase 25 Vie. 12-Mayo-2023:
+### Clase 25 Vie. 3-Nov-2023:
 * 7.1-Analisis Facial [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/2021_AnalisisFacial_Teaching.pdf)
 * 5.3-Metricas de Genuinos vs. Impostores [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT05_Genuine_Impostor.pdf)
 * 5.3-Metricas de Genuinos vs. Impostores [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3-Ejemplo de ArcFace y metricas de evaluacion [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Pyton/PAT05_ArcFace.ipynb)
 
-### Clase 26 Sab. 13-Mayo-2023:
+### Clase 26 Sab. 4-Nov-2023:
 * 7.1-Como hacer el proyecto [PPT]
 * 7.1-Machine Learning Yearing (Libro) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Libros/NG-MLY01_13.pdf)
 
 ## Semana 14
-### Clase 27 Vie. 19-Mayo-2023:
+### Clase 27 Vie. 10-Nov-2023
 * 6.2-Clustering: K-Means [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_KMeans.pdf)
 * 6.2-Clustering: Hierarchic [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_Hierarchic.pdf)
 * 6.2-Clustering: Mixture of Gaussians [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_GaussMix.pdf)
@@ -197,21 +197,21 @@
 * 6.2-Ejemplos de Clustering [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Matlab/PAT06_Clustering.ipynb)
 * 6.2-Ejemplo de Face-Clusering [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Matlab/PAT06_FaceClustering.ipynb)
 
-### Clase 28 Sab. 20-Mayo-2023:
+### Clase 28 Sab. 11-Nov-20232:
 * 6.3-BoW: Bag of Words [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Presentaciones/PAT06_BoW.pdf)
 * 6.3-Ejemplo de Bag of Words [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap06_Cluster/Matlab/PAT06_Bag_of_Words.ipynb)
 * 6.3-Ejercicio en clases 
 
 ## Semana 15
-### Clase 29 Vie. 26-Mayo-2023:
+### Clase 29 Vie. 17-Nov-2023:
 * 7.1-Presentacion de avances de proyecto (1/2) [Proyecto]
 
-### Clase 30 Sab. 27-Mayo-2023:
+### Clase 30 Sab. 18-Nov-2023:
 * 7.1-Presentacion de avances de proyecto (2/2) [Proyecto]
 
 ## Semana 16
-* ### Clase 31 Vie-2-jun-2023
+### Clase 31 Vie. 24-Nov-2023:
 * Entrega proyecto
 
-* ### Clase 32 Vie-3-jun-2023
+### Clase 32 Sab. 25-Nov-2023:
 * Entrega proyecto
