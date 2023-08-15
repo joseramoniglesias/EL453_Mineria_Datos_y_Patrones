@@ -30,7 +30,7 @@
 ### Clase 4 Sáb 19-Ago 2023:
 * 2.1-Caracteristicas geometricas [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_GeometricFeatures.pdf)
 * 2.1-Caracteristicas geometricas [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_GeometricFeatures_paper.pdf)
-* 2.1-Ejemplo sobre caracteristicas geometricas [Colab]
+* 2.1-Ejemplo sobre caracteristicas geometricas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/CIEDATOS1_CaracteristicasGeometricas.ipynb)
 * 2.1-Momentos de Flusser [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Flusser_Moments.pdf)
 * 2.1-Momentos de Hu [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Hu_Moments.pdf)
 
@@ -38,7 +38,7 @@
 ### Clase 5 Vie 25-Ago 2023:
 * 2.1-Descriptores de Fourier [Tablero](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_DescriptoresFourier_Tablero.pdf)
 * 2.1-Descriptores de Fourier [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_DescriptoresFourier.pdf)
-* 2.1-Ejemplo sobre descriptores de Fourier [Colab]
+* 2.1-Ejemplo sobre descriptores de Fourier [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS1_DescriptoresFourier.ipynb)
 * 2.2-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns.pdf)
 * 2.2-Paper de LBP [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/LBP_faces.pdf)
 
