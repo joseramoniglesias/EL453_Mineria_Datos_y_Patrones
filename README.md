@@ -24,7 +24,7 @@
 ### Clase 3 Vie 18-Ago 2023:
 * 1.3-Formulacion metodologica [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_FormulacionMetodologia.pdf)
 * 1.3-Lectura complementaria [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/Jain_StatisticalPatternRecognition_2000.pdf)
-* 1.2-Ejemplo separacion de dos letras [jupiter - Colab](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/CIEDATOS1_Separacion_Letras_JQ.ipynb)
+* 1.2-Ejemplo separacion de dos letras [jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/CIEDATOS1_01_Separacion_Letras_JQ.ipynb)
 * 1.4-Esquema basico de reconocimiento de patrones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_PR_Methodologia.pdf)
 
 ### Clase 4 Sáb 19-Ago 2023:
