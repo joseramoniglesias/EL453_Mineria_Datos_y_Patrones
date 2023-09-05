@@ -55,7 +55,7 @@
 * 2.2-Caracteristicas de Gabor [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_Gabor.pdf)
 * 2.2-Paper de Gabor [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Manjunath_GaborFeatures1996.pdf)
 * 2.2-Aplicacion de caracteristicas de Gabor [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Gabor_Application.pdf)
-* 2.2-Ejemplo sobre reconocimiento de texturas [jupiter]([https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS02_CaracteristicasTexturas.ipynb)(https://nbviewer.org/github/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS02_CaracteristicasTexturas.ipynb))
+* 2.2-Ejemplo sobre reconocimiento de texturas [jupiter](https://nbviewer.org/github/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS02_CaracteristicasTexturas.ipynb))
 * 2.2-Video experimento con gatos (1/2) [Video](https://www.youtube.com/watch?v=IOHayh06LJ4)
 * 2.2-Video experimento con gatos (2/2) [Video](https://www.youtube.com/watch?v=QzkMo45pcUo)
 * 2.2-Comparacion de caracteristicas de textura [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Randen_ComparativeTextures.pdf)
