@@ -83,7 +83,7 @@
 * 2.2-Caracteristicas de intensidad [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_IntensityFeatures_Diap.pdf)
 * 2.2-Caracteristicas de intensidad [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/PAT02_IntensityFeatures.pdf)
 * 2.2-Perfil de Línea de Cruce -Crossing Line Profile (CLP)- [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_CrossingLineProfiles.pdf)
-* 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/PAT02_Intensity_Contrast_CLP.ipynb)
+* 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS02_Intensidad_de_Contraste_CLP_new.ipynb)
 
 ### Clase 12 Sab 16-Sep-2023:
 * 3.1-Introduccion a la Seleccion de Caracteristicas [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_FeatureSelection_Intro_Diap.pdf)
