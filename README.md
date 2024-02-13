@@ -4,87 +4,81 @@
 
 ## Semana 1
 ### Clase 01 Vi 16-feb 2024:
-* 0.1-Programa del curso [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PLAN_DE_ASIGNATURA_EL453_Procesamiento_de_Se%C3%B1ales_I_2022.pdf)
-* 0.1-Presentacion del curso [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT00_Presentacion.pdf)
-* 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
-* 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
-* 0.1-Libro: Deep Learning (Goodfellow, 2016) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/deeplearningbook.pdf)
-* 0.1-Libro: Computer Vision (Szeliski, 2010) [Book](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/SzeliskiBook_20100903_draft.pdf)
-* 1.1-Ejercicio vision humana [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_EjercicioReconocimiento.pdf)
-* 1.2 Descargar Anaconda [Internet](https://www.anaconda.com/)
-* 1.2 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
-* 1.2 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
-* 1.2 Descargar RapidMiner [Internet](https://my.rapidminer.com/nexus/account/index.html#login?returnUrl=https%3A%2F%2Fmy.rapidminer.com%2Fnexus%2Faccount%2Findex.html%23home)
+* 1.1-Programa del curso [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PLAN_DE_ASIGNATURA_EL453_Procesamiento_de_Se%C3%B1ales_I_2022.pdf)
+* 1.2-Presentacion del curso [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL460_01_Extraccion_de_conocimiento_Parte1.pdf)
+* 1.3 Presentación del Curso 2 [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL460_01_Extraccion_de_conocimiento_Parte2.pdf)
+* 1.4-Libro: Elements of Statistical Learning (Hastie et al., 2008) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/Elements_of_Statistical_Learning.pdf)
+* 1.5-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
+* 1.6-Libro: Deep Learning (Goodfellow, 2016) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/deeplearningbook.pdf)
+* 1.7-Libro: Computer Vision (Szeliski, 2010) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/SzeliskiBook_20100903_draft.pdf)
+* 1.8 Descargar Anaconda [Internet](https://www.anaconda.com/)
+* 1.9 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
+* 1.10 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
+* 1.11 Descargar RapidMiner [Internet](https://my.rapidminer.com/nexus/account/index.html#login?returnUrl=https%3A%2F%2Fmy.rapidminer.com%2Fnexus%2Faccount%2Findex.html%23home)
 
 ### Clase 2 Sáb 17-feb 2024:
-* 1.2-Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_EjemploMandarinas.pdf)
-* 1.5-Definiciones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_Definiciones.pdf)
-* 1.1-Vision humana / Vision por computador [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_Chihuahua_or_Muffin.pdf)
-
+* 1.12-Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_EjemploMandarinas.pdf)
+* 1.13-Definiciones [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_Definiciones.pdf)
+ 
 ## Semana 2
 ### Clase 3 Vie 23-Feb 2024:
-* 1.3-Formulacion metodologica [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_FormulacionMetodologia.pdf)
-* 1.3-Lectura complementaria [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/Jain_StatisticalPatternRecognition_2000.pdf)
-* 1.2-Ejemplo separacion de dos letras[jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/CIEDATOS1_01_Separacion_Letras_JQ.ipynb)
-* 1.4-Esquema basico de reconocimiento de patrones [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PAT01_PR_Methodologia.pdf)
+* 1.14-Formulacion metodologica [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_FormulacionMetodologica.pdf)
+* 1.15-Lectura complementaria Oblgatoria [PDF](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/Jain_StatisticalPatternRecognition_2000.pdf)
+* 1.16-El código a utilizar está en esta carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap01_Introducci%C3%B3n/Python))
+* 1.17-Esquema basico de reconocimiento de patrones [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_PR_Metodologia.pdf)
 
 ### Clase 4 Sáb 24-Feb 2024:
-* 2.1-Caracteristicas geometricas [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_GeometricFeatures.pdf)
-* 2.1-Caracteristicas geometricas [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_GeometricFeatures_paper.pdf)
-* 2.1-Ejemplo sobre caracteristicas geometricas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/CIEDATOS1_CaracteristicasGeometricas.ipynb)
-* 2.1-Momentos de Flusser [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Flusser_Moments.pdf)
-* 2.1-Momentos de Hu [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Hu_Moments.pdf)
+* 2.1-Caracteristicas geometricas [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_CaracteristicasGeometricas.pdf)
+* 2.2-El Código a utilizar en ésta Carpeta [Carpeta]()
+* 2.3-Momentos de Flusser [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/Flusser_Moments.pdf)
+* 2.4-Momentos de Hu [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/Hu_Moments.pdf)
 
 ## Semana 3
 ### Clase 5 Vie 1-Mar 2024:
-* 2.1-Descriptores de Fourier [Tablero](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_DescriptoresFourier_Tablero.pdf)
-* 2.1-Descriptores de Fourier [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_DescriptoresFourier.pdf)
-* 2.1-Ejemplo sobre descriptores de Fourier [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS1_DescriptoresFourier.ipynb)
-* 2.2-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns.pdf)
-* 2.2-Paper de LBP [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/LBP_faces.pdf)
+* 2.5-Descriptores de Fourier [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_Descriptores_de_Fourier.pdf)
+* 2.6-El Código a utilizr en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n)
+* 2.7-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_LocalBinaryPatterns_LBP.pdf)
+* 2.8-Paper de LBP Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/LBP_faces.pdf)
 
 ### Clase 6 Sáb 2-Mar 2024:
-* 2.2-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns.pdf)
-* 2.2-Ejemplo sobre LBP en reconocimiento facial [Colab]
-* 2.2-Local Binary Patterns (invariante a la rotacion) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_LocalBinaryPatterns_ri.pdf)
-* 2.2-Lectura complementaria de LBP [Paper](http://www.scholarpedia.org/article/Local_Binary_Patterns)
+* 2.9-El Código a utilizr en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n)
+* 2.10-Lectura complementaria de LBP [Paper](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 
 ## Semana 4
 ### Clase 7 Vie 8-Mar 2024:
-* 2.2-Caracteristicas de textura de Haralick [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_HaralickTexture.pdf)
-* 2.2-Paper de Haralick [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Haralick_Textures.pdf)
-* 2.2-Caracteristicas de Gabor [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_Gabor.pdf)
-* 2.2-Paper de Gabor [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Manjunath_GaborFeatures1996.pdf)
-* 2.2-Aplicacion de caracteristicas de Gabor [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Gabor_Application.pdf)
-* 2.2-Ejemplo sobre reconocimiento de texturas [jupiter](https://nbviewer.org/github/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS02_CaracteristicasTexturas.ipynb))
-* 2.2-Video experimento con gatos (1/2) [Video](https://www.youtube.com/watch?v=IOHayh06LJ4)
-* 2.2-Video experimento con gatos (2/2) [Video](https://www.youtube.com/watch?v=QzkMo45pcUo)
-* 2.2-Comparacion de caracteristicas de textura [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Randen_ComparativeTextures.pdf)
+* 2.11-Caracteristicas de textura de Haralick [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_HaralickTexture.pdf)
+* 2.12-Paper de Haralick [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/Haralick_Textures.pdf)
+* 2.13-Caracteristicas de Gabor [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_Gabor.pdf)
+* 2.14-Paper de Gabor [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/Manjunath_GaborFeatures1996.pdf))
+* 2.15-Aplicacion de caracteristicas de Gabor [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/Gabor_Application.pdf))
+* 2.16-El Código a utilizar en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n))
+* 2.17-Video experimento con gatos (1/2) [Video](https://www.youtube.com/watch?v=IOHayh06LJ4)
+* 2.18-Video experimento con gatos (2/2) [Video](https://www.youtube.com/watch?v=QzkMo45pcUo)
+* 2.19-Comparacion de caracteristicas de textura [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Randen_ComparativeTextures.pdf)
 
 ### Clase 8 Sáb 9-Mar 2024:
-* 2.2-Ejercicico 04 sobre deteccion de caras [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/Numero_Alumnx_Eje04.ipynb)
-* 2.2-Solucion al Ejercicio 04 [jupiter]
+* 2.20-Ejercicico 04 sobre deteccion de caras [Jupiter]()
+* 2.21-Solucion al Ejercicio 04 [jupiter]
 
 ## Semana 5
 ### Clase 9 Vié 15-Mar 2024:
-* 2.2-Histogram of Gradients (HoG) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_HoG_HumanDetection.pdf)
-* 2.2-Paper HoG [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/HoG_DalalTriggs.pdf)
-* 2.2-Deteccion de peatones usando HoG [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS02_DeteccionPeatones_HoG.ipynb)
-* 2.2-SIFT (Intro) [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_SIFT_ObjectDetection.pdf)
-* 2.2-Paper SIFT [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Lowe_SIFT.pdf)
-* 2.2-Implementacion de HoG en Python con OpenCV [phyton]
+* 2.22-Histogram of Gradients (HoG) [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_HoG_HumanDetection.pdf)
+* 2.23-Paper HoG Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/HoG_DalalTriggs.pdf)
+* 2.24-El Código a utilizar en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n)
+* 2.25-SIFT (Intro) [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_SIFT_ObjectDetection.pdf)
+* 2.26-Paper SIFT Lectura Obligatoria [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Lowe_SIFT.pdf)
+* 2.27-Implementacion de HoG en Python con OpenCV [phyton]
 
 ### Clase 10 Sab 16-Mar 2024:
-* 2.2-SIFT [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_SIFT_ObjectDetection.pdf)
-* 2.2-Ejercicico 05 sobre deteccion de paredes rayadas [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/Numero_Alumnx_Eje05.ipynb)
-* 2.2-Solucion al Ejercicio 05 [jupiter]
+* 2.28-Ejercicico 05 sobre deteccion de paredes rayadas [Jupiter]()
+* 2.29-Solucion al Ejercicio 05 [jupiter]
 
 ## Semana 6
 ### Clase 11 Vie 22-Mar 2024:
-* 2.2-Caracteristicas de intensidad [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_IntensityFeatures_Diap.pdf)
-* 2.2-Caracteristicas de intensidad [Paper](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/PAT02_IntensityFeatures.pdf)
-* 2.2-Perfil de Línea de Cruce -Crossing Line Profile (CLP)- [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/PAT02_CrossingLineProfiles.pdf)
-* 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [Jupiter](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n/CIEDATOS02_Intensidad_de_Contraste_CLP_new.ipynb)
+* 2.30-Caracteristicas de intensidad [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_IntensityFeatures.pdf)
+* 2.2-Caracteristicas de intensidad [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/EL453_paper_IntensityFeatures.pdf)
+* 2.2-Perfil de Línea de Cruce -Crossing Line Profile (CLP)- [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_CrossingLineProfiles.pdf)
+* 2.2-El Código a utilizar en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n)
 
 ### Clase 12 Sab 23-Mar-2024:
 * 3.1-Introduccion a la Seleccion de Caracteristicas [PPT](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/PAT03_FeatureSelection_Intro_Diap.pdf)
