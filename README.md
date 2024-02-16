@@ -15,6 +15,7 @@
 * 1.9 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
 * 1.10 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
 * 1.11 Descargar RapidMiner [Internet](https://my.rapidminer.com/nexus/account/index.html#login?returnUrl=https%3A%2F%2Fmy.rapidminer.com%2Fnexus%2Faccount%2Findex.html%23home)
+* 1.11-1 AWS SageMaker Studio Lab [Internet] (https://studiolab.sagemaker.aws/)
 
 ### Clase 2 Sáb 17-feb 2024:
 * 1.12-Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_EjemploMandarinas.pdf)
