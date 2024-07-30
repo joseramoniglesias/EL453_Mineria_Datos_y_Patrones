@@ -1,5 +1,5 @@
 # Electiva-EL453 Procesamiento de Señales I
-# Curso de Minería de datos y Patrones 2024-1
+# Curso de Minería de datos y Patrones 2024-2
 ## Planificación del Curso por Días
 
 ## Semana 1
