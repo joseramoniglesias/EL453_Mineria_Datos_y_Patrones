@@ -20,6 +20,7 @@
 
 ### Clase 2 Sáb 10-Ago 2024:
 * 1.13-Introducción a la Minería de Datos [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_c1_introduccion.pdf)
+* 1.14 Repaso Matemático [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_me1_repaso_matem%C3%A1tico.pdf)
  
 ## Semana 2
 ### Clase 3 Vie 16-Ago 2024:
@@ -29,10 +30,8 @@
 * 1.17-Esquema basico de reconocimiento de patrones [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_PR_Metodologia.pdf)
 
 ### Clase 4 Sáb 17-Ago 2024:
-* 2.1-Caracteristicas geometricas [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_CaracteristicasGeometricas.pdf)
-* 2.2-El Código a utilizar en ésta Carpeta [Carpeta]()
-* 2.3-Momentos de Flusser [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/Flusser_Moments.pdf)
-* 2.4-Momentos de Hu [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/Hu_Moments.pdf)
+* 2.1-Datos [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c2_Datos.pdf)
+* 2.2-Límites estadísticos [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_me_Limites_estadisticos.pdf)
 
 ## Semana 3
 ### Clase 5 Vie 23-Ago 2024:
@@ -42,8 +41,9 @@
 * 2.8-Paper de LBP Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/LBP_faces.pdf)
 
 ### Clase 6 Sáb 24-ago 2024:
-* 2.9-El Código a utilizr en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n)
+* 2.9-Análisis Exploratorio de Datos EDA [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c3_eda.pdf)
 * 2.10-Lectura complementaria de LBP [Paper](http://www.scholarpedia.org/article/Local_Binary_Patterns)
+* 2.11-Clustering de Series de Tiempo [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_me3_clustering_series_tiempo.pdf)
 
 ## Semana 4
 ### Clase 7 Vie 30-Ago 2024:
@@ -56,10 +56,12 @@
 * 2.17-Video experimento con gatos (1/2) [Video](https://www.youtube.com/watch?v=IOHayh06LJ4)
 * 2.18-Video experimento con gatos (2/2) [Video](https://www.youtube.com/watch?v=QzkMo45pcUo)
 * 2.19-Comparacion de caracteristicas de textura [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Randen_ComparativeTextures.pdf)
-
-### Clase 8 Sáb 31-Ago 2024:
 * 2.20-Ejercicico 04 sobre deteccion de caras [Jupiter]()
 * 2.21-Solucion al Ejercicio 04 [jupiter]
+
+### Clase 8 Sáb 31-Ago 2024:
+* 2.22-Aprendizaje supervisado [PPTX(https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c4_supervised_learning.pdf)
+* 2.23-Caso de Estudio [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_m4_clustering_estudios.pdf)
 
 ## Semana 5
 ### Clase 9 Vié 06-Sep 2024:
@@ -71,8 +73,8 @@
 * 2.27-Implementacion de HoG en Python con OpenCV [phyton]
 
 ### Clase 10 Sab 07-Sep 2024:
-* 2.28-Ejercicico 05 sobre deteccion de paredes rayadas [Jupiter]()
-* 2.29-Solucion al Ejercicio 05 [jupiter]
+* 2.28-Clasificacion Arboles knn bayes_JJA [PPTX]()
+* 2.29-Privacidad en DM [PPTX]()
 
 ## Semana 6
 ### Clase 11 Vie 13-Sep 2024:
