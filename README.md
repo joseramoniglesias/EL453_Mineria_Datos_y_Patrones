@@ -1,4 +1,5 @@
 # Electiva-EL453 Minería de datos y Patrones 2025-1
+
 ## Planificación del Curso por Días
 
 ## Semana 1
