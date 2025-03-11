@@ -60,7 +60,7 @@
 * 2.21-Solucion al Ejercicio 04 [jupiter]
 
 ### Clase 8 Sáb 1-Mar 2025:
-* 2.22-Aprendizaje supervisado [PPTX(https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c4_supervised_learning.pdf)
+* 2.22-Aprendizaje supervisado [PPTX([https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c4_supervised_learning.pdf])
 * 2.23-Caso de Estudio [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_m4_clustering_estudios.pdf)
 
 ## Semana 5
