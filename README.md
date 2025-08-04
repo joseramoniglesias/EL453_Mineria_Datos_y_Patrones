@@ -105,7 +105,7 @@
 * 3.9 Ética en Datos [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_me7_etica_I.pdf)
 
 ## Semana 8
-### Clase 15 Vier 3-Sep 2025:
+### Clase 15 Vier 3-Oct 2025:
 * 3.4-Seleccion versus Transformacion [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_03_Models.pdf)
 * 3.5-Principal Components Analysis PCA [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_03_PCA.pdf)
 * 3.4-Códigos de PCA, ICA, PLSR [Jupiter](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n)
@@ -116,12 +116,12 @@
 * 3.1-Libreria mlxtend [Python](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas 
 
-### Clase 16 Sab 4-Sep 2025:
+### Clase 16 Sab 4-Oct 2025:
 * 3.6 Clustering y JJA [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_c8_clustering_jja.pdf)
 * 3.7 Validación de Cluster [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_c9_clustering_validacion_jja.pdf)
 
 ## Semana 9
-### Clase 17 Vie 10-Sep 2025:
+### Clase 17 Vie 10-Oct 2025:
 * 4.1-Introduccion [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_intro.pdf)
 * 4.2-Clasificador KNN - vecino mas cercano [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_KNN.pdf)
 * 4.2-Clasificador DMIN - distancia minima [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_dmin.pdf)
@@ -131,72 +131,72 @@
 * 4.3-Arboles de decision [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_Trees.pdf)
 * 4.1-Entropia [YouTube](https://www.youtube.com/watch?v=9r7FIXEAGvs)
 
-### Clase 18 Sab 11-Sep 2025:
+### Clase 18 Sab 11-Oct 2025:
 * 4.2 Selección y Reducción de Atributos [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_c10_atributos_seleccion_reduccion_jja.pdf)
 
 ## Semana 10
-### Clase 19 Vie 17-Sep 2025:
+### Clase 19 Vie 17-Oct 2025:
 * 4.2-Ejercicio en clases 
 
-### Clase 20 Sab. 18-Sep 2025:
+### Clase 20 Sab. 18-Oct 2025:
 * 4.6-Redes Neuronales [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_NeuralNetworks.pdf)
 * 4.6-Libro de Neural Networks and Deep Learning [Book](https://link.springer.com/book/10.1007/978-3-319-94463-0)
 
 ## Semana 11
-### Clase 21 Vie. 24-Sep 2025:
+### Clase 21 Vie. 24-Oct 2025:
 * 4.7-Deep Learning [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_DeepLearning.pdf)
 * 7.1-Descripcion de Proyecto [Proyecto]()
 * 7.2 Ética II [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_me8_etica_II.pdf)
 
-### Clase 22 Sab. 25-Sep 2025:
+### Clase 22 Sab. 25-Oct 2025:
 * 4.5-Introduccion a SVM [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_SVM.pdf)
 * 4.5-Teoria sobre SVM [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_Maquinas_de_soporte_vectorial.pdf)
 * 4.5-Tutorial de SVM en phyton [YouTube]([https://www.youtube.com/watch?v=_PwhiWxHK8o](https://www.youtube.com/watch?v=N1vOgolbjSc))
 * 4.5-Video de teoria de SVM (MIT lesson) [YouTube](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 
 ## Semana 12
-### Clase 23 Vie. 31-Sep 2025:
+### Clase 23 Vie. 31-Oct 2025:
 * 5.5-Estimacion de Accuracy [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_05_AccuracyEstimation.pdf)
 * 5.5-Ejemplo de estimacion de accuracy [Jupiter]
 
-### Clase 24 Sab. 1-Oct 2025:
+### Clase 24 Sab. 1-Nov 2025:
 * 5.2-Matriz de Confusion [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_05_MatrizConfusion.pdf)
 * 5.3-Ejercicio en clases 
 
 ## Semana 13
-### Clase 25 Vie. 7-Oct 2025:
+### Clase 25 Vie. 7-Nov 2025:
 * 7.1-Analisis Facial [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_AnalisisFacial_Teaching.pdf)
 * 5.3-Metricas de Genuinos vs. Impostores [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_05_Genuine_Impostor.pdf)
 * 5.3-Metricas de Genuinos vs. Impostores [PDF](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_05_Understanding-Biometric-Performance-Evaluation.pdf)
 
-### Clase 26 Sab. 8-Oct 2025:
+### Clase 26 Sab. 8-Nov 2025:
 * 7.1-Como hacer el proyecto [PPT]
 * 7.1-Machine Learning Yearing (Libro) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Libros/NG-MLY01_13.pdf)
 
 ## Semana 14
-### Clase 27 Vie. 14-Oct 2025
+### Clase 27 Vie. 14-Nov 2025
 * 6.2-Clustering: K-Means [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_KMeans.pdf)
 * 6.2-Clustering: Hierarchic [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_Hierarchic.pdf)
 * 6.2-Clustering: Mixture of Gaussians [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_GaussMix.pdf)
 * 6.2-Clustering: Mean Shift [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_MeanShift.pdf)
 * 6.2-Carpeta de Códigos [Jupiter](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap06_Cluster/Python)
 
-### Clase 28 Sab. 15-Oct 2025:
+### Clase 28 Sab. 15-Nov 2025:
 * 6.3-BoW: Bag of Words [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_BoW.pdf)
 * 6.3-Ejercicio en clases 
 
 ## Semana 15
-### Clase 29 Vie. 21-Oct 2025:
+### Clase 29 Vie. 21-Nov 2025:
 * 7.1-Presentacion de avances de proyecto (1/2) [Proyecto]
 
-### Clase 30 Sab. 22-Oct 2025:
+### Clase 30 Sab. 22-Nov 2025:
 * 7.1-Presentacion de avances de proyecto (2/2) [Proyecto]
 
 ## Semana 16
-### Clase 31 Vie. 06-Oct 2025:
+### Clase 31 Vie. 28-Nov 2025:
 * Entrega proyecto
 
-### Clase 32 Sab. 07-Oct-2025:
+### Clase 32 Sab. 29-Nov-2025:
 * Entrega proyecto
 
 _______________________________________________________
