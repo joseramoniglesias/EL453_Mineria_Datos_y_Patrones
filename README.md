@@ -11,10 +11,9 @@
 * 1.5-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 1.6-Libro: Deep Learning (Goodfellow, 2016) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/deeplearningbook.pdf)
 * 1.7-Libro: Computer Vision (Szeliski, 2010) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/SzeliskiBook_20100903_draft.pdf)
-* 1.8 Descargar Anaconda [Internet](https://www.anaconda.com/)
-* 1.9 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
-* 1.10 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
-* 1.11 Descargar RapidMiner [Internet](https://my.rapidminer.com/nexus/account/index.html#login?returnUrl=https%3A%2F%2Fmy.rapidminer.com%2Fnexus%2Faccount%2Findex.html%23home)
+* 1.8 Crear Cuenta en DataSpell [Internet](https://account.jetbrains.com/login)
+* 1.9 Descargar DataSpell [Internet](https://www.jetbrains.com/es-es/dataspell/)
+* 1.10 Descargar RapidMiner [Internet](https://my.rapidminer.com/nexus/account/index.html#login?returnUrl=https%3A%2F%2Fmy.rapidminer.com%2Fnexus%2Faccount%2Findex.html%23home)
 * 1.11-1 AWS SageMaker Studio Lab [Internet] (https://studiolab.sagemaker.aws/)
 * 1.12 Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_EjemploMandarinas.pdf)
 
