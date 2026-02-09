@@ -3,7 +3,7 @@
 ## Planificación del Curso por Días
 
 ## Semana 1
-### Clase 01 Vi 13-Feb 202:
+### Clase 01 Vi 20-Feb 202:
 * 1.1-Programa del curso [PDF](https://github.com/joseramoniglesias/EL453_Ciencia_de_Datos_1/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/PLAN_DE_ASIGNATURA_EL453_Procesamiento_de_Se%C3%B1ales_I_2022.pdf)
 * 1.2-Presentacion del curso [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL460_01_Extraccion_de_conocimiento_Parte1.pdf)
 * 1.3 Presentación del Curso 2 [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL460_01_Extraccion_de_conocimiento_Parte2.pdf)
@@ -17,35 +17,35 @@
 * 1.11-1 AWS SageMaker Studio Lab [Internet] (https://studiolab.sagemaker.aws/)
 * 1.12 Ejemplo practico [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_EjemploMandarinas.pdf)
 
-### Clase 2 Sáb 14-Feb 202:
+### Clase 2 Sáb 21-Feb 202:
 * 1.13-Introducción a la Minería de Datos [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_c1_introduccion.pdf)
 * 1.14 Repaso Matemático [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_me1_repaso_matem%C3%A1tico.pdf)
  
 ## Semana 2
-### Clase 3 Vie 20-Feb 2026:
+### Clase 3 Vie 27-Feb 2026:
 * 1.14-Formulacion metodologica [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_FormulacionMetodologica.pdf)
 * 1.15-Lectura complementaria Oblgatoria [PDF](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/Jain_StatisticalPatternRecognition_2000.pdf)
 * 1.16-El código a utilizar está en esta carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap01_Introducci%C3%B3n/Python))
 * 1.17-Esquema basico de reconocimiento de patrones [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/EL453_01_PR_Metodologia.pdf)
 
-### Clase 4 Sáb 21-Feb 2026:
+### Clase 4 Sáb 28-Feb 2026:
 * 2.1-Datos [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c2_Datos.pdf)
 * 2.2-Límites estadísticos [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_me_Limites_estadisticos.pdf)
 
 ## Semana 3
-### Clase 5 Vie 27-Feb 2026:
+### Clase 5 Vie 6-Mar 2026:
 * 2.5-Descriptores de Fourier [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_Descriptores_de_Fourier.pdf)
 * 2.6-El Código a utilizr en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n)
 * 2.7-Local Binary Patterns [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_LocalBinaryPatterns_LBP.pdf)
 * 2.8-Paper de LBP Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/LBP_faces.pdf)
 
-### Clase 6 Sáb 28-Feb 202:
+### Clase 6 Sáb 7-7 202:
 * 2.9-Análisis Exploratorio de Datos EDA [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c3_eda.pdf)
 * 2.10-Lectura complementaria de LBP [Paper](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * 2.11-Clustering de Series de Tiempo [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_me3_clustering_series_tiempo.pdf)
 
 ## Semana 4
-### Clase 7 Vie 6-Mar 2026:
+### Clase 7 Vie 13-Mar 2026:
 * 2.11-Caracteristicas de textura de Haralick [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_HaralickTexture.pdf)
 * 2.12-Paper de Haralick [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/Haralick_Textures.pdf)
 * 2.13-Caracteristicas de Gabor [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_Gabor.pdf)
@@ -58,12 +58,12 @@
 * 2.20-Ejercicico 04 sobre deteccion de caras [Jupiter]()
 * 2.21-Solucion al Ejercicio 04 [jupiter]
 
-### Clase 8 Sáb 7-Mar 2026:
+### Clase 8 Sáb 14-Mar 2026:
 * 2.22-Aprendizaje supervisado [PPTX]([https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c4_supervised_learning.pdf])
 * 2.23-Caso de Estudio [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_m4_clustering_estudios.pdf)
 
 ## Semana 5
-### Clase 9 Vié 13-Mar 2026:
+### Clase 9 Vié 20-Mar 2026:
 * 2.22-Histogram of Gradients (HoG) [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_HoG_HumanDetection.pdf)
 * 2.23-Paper HoG Lectura Obligatoria [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/HoG_DalalTriggs.pdf)
 * 2.24-El Código a utilizar en ésta Carpeta [Carpeta](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Pit%C3%B3n)
@@ -71,12 +71,12 @@
 * 2.26-Paper SIFT Lectura Obligatoria [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/Lowe_SIFT.pdf)
 * 2.27-Implementacion de HoG en Python con OpenCV [phyton]
 
-### Clase 10 Sab 14-Mar 2026:
+### Clase 10 Sab 21-Mar 2026:
 * 2.28-Clasificacion Arboles knn bayes_JJA [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_c5_clasificacion_arboles_knn_bayes_JJA.pdf)
 * 2.29-Privacidad en DM [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_me5_privacidad.pdf)
 
 ## Semana 6
-### Clase 11 Vie 20-Mar 2026:
+### Clase 11 Vie 27-Mar 2026:
 * 2.30-Caracteristicas de intensidad [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_IntensityFeatures.pdf)
 * 2.2-Caracteristicas de intensidad [Paper](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Papeles/EL453_paper_IntensityFeatures.pdf)
 * 2.2-Perfil de Línea de Cruce -Crossing Line Profile (CLP)- [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap02_Extraer_Caracter%C3%ADsticas/Presentaciones/EL453_02_CrossingLineProfiles.pdf)
@@ -87,24 +87,24 @@
 * 3.4-Carpeta con los Códigos [Jupiter](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n)
 
 
-### Clase 12 Sab 21-Mar-2026:
+### Clase 12 Sab 28-Mar-2026:
 * 3.5 Clasificación y Regresión de Modelos Lineales [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_c6_clasficacion_regresion_modelos_lineales.pdf)
 * 3.6 Reglas de Asociación [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_me6_reglas_asociacion.pdf)
 
 ## Semana 7
-### Clase 13 Vie 27-Mar 202:
+### Clase 13 Vie 10-Abr 202:
 * 3.1-Clean: Limpieza de datos [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_03_Clean.pdf)
 * 3.5-SFS [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_03_SFS.pdf)
 * 3.5-Carpeta con los Códigos [Jupiter](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n)
 * 3.3-Discriminante Fihser y Matrices de Covarianza [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_03_Fisher_Covarianzas.pdf)
 3.7-Branch and Bound [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_03_BranchAndBound.pdf)
 
-### Clase 14 Sab 28-Mar 2026:
+### Clase 14 Sab 11-Abr 2026:
 * 3.8 Aprendiaje Supervisado - SVM [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_c7_svm.pdf)
 * 3.9 Ética en Datos [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_me7_etica_I.pdf)
 
 ## Semana 8
-### Clase 15 Vier 10-Abr 2026:
+### Clase 15 Vier 17-Abr 2026:
 * 3.4-Seleccion versus Transformacion [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_03_Models.pdf)
 * 3.5-Principal Components Analysis PCA [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Presentaciones/EL453_03_PCA.pdf)
 * 3.4-Códigos de PCA, ICA, PLSR [Jupiter](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap03_Seleccionar_Caracter%C3%ADsticas/Pit%C3%B3n)
@@ -115,12 +115,12 @@
 * 3.1-Libreria mlxtend [Python](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas 
 
-### Clase 16 Sab 11-Abr 202:
+### Clase 16 Sab 18-Abr 202:
 * 3.6 Clustering y JJA [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_c8_clustering_jja.pdf)
 * 3.7 Validación de Cluster [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_c9_clustering_validacion_jja.pdf)
 
 ## Semana 9
-### Clase 17 Vie 17-Abr 202:
+### Clase 17 Vie 24-Abr 202:
 * 4.1-Introduccion [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_intro.pdf)
 * 4.2-Clasificador KNN - vecino mas cercano [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_KNN.pdf)
 * 4.2-Clasificador DMIN - distancia minima [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_dmin.pdf)
@@ -130,72 +130,72 @@
 * 4.3-Arboles de decision [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_Trees.pdf)
 * 4.1-Entropia [YouTube](https://www.youtube.com/watch?v=9r7FIXEAGvs)
 
-### Clase 18 Sab 18-Abr 202:
+### Clase 18 Sab 25-Abr 202:
 * 4.2 Selección y Reducción de Atributos [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_c10_atributos_seleccion_reduccion_jja.pdf)
 
 ## Semana 10
-### Clase 19 Vie 24-Abr 2026:
+### Clase 19 Vie 8-May 2026:
 * 4.2-Ejercicio en clases 
 
-### Clase 20 Sab. 25-Abr 2026:
+### Clase 20 Sab. 9-May 2026:
 * 4.6-Redes Neuronales [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_NeuralNetworks.pdf)
 * 4.6-Libro de Neural Networks and Deep Learning [Book](https://link.springer.com/book/10.1007/978-3-319-94463-0)
 
 ## Semana 11
-### Clase 21 Vie. 8-May 2026:
+### Clase 21 Vie. 15-May 2026:
 * 4.7-Deep Learning [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_DeepLearning.pdf)
 * 7.1-Descripcion de Proyecto [Proyecto]()
 * 7.2 Ética II [PPTX](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_me8_etica_II.pdf)
 
-### Clase 22 Sab. 9-May 2026:
+### Clase 22 Sab.16-May 2026:
 * 4.5-Introduccion a SVM [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_SVM.pdf)
 * 4.5-Teoria sobre SVM [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap04_Clasificaci%C3%B3n/Presentaciones/EL453_04_Maquinas_de_soporte_vectorial.pdf)
 * 4.5-Tutorial de SVM en phyton [YouTube]([https://www.youtube.com/watch?v=_PwhiWxHK8o](https://www.youtube.com/watch?v=N1vOgolbjSc))
 * 4.5-Video de teoria de SVM (MIT lesson) [YouTube](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 
 ## Semana 12
-### Clase 23 Vie. 15-May 2026:
+### Clase 23 Vie. 22-May 2026:
 * 5.5-Estimacion de Accuracy [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_05_AccuracyEstimation.pdf)
 * 5.5-Ejemplo de estimacion de accuracy [Jupiter]
 
-### Clase 24 Sab. 16-May 2026:
+### Clase 24 Sab. 23-May 2026:
 * 5.2-Matriz de Confusion [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_05_MatrizConfusion.pdf)
 * 5.3-Ejercicio en clases 
 
 ## Semana 13
-### Clase 25 Vie. 22-May 202:
+### Clase 25 Vie. 29-May 202:
 * 7.1-Analisis Facial [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_AnalisisFacial_Teaching.pdf)
 * 5.3-Metricas de Genuinos vs. Impostores [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_05_Genuine_Impostor.pdf)
 * 5.3-Metricas de Genuinos vs. Impostores [PDF](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Presentaciones/EL453_05_Understanding-Biometric-Performance-Evaluation.pdf)
 
-### Clase 26 Sab. 23-May 2026:
+### Clase 26 Sab. 30-May 2026:
 * 7.1-Como hacer el proyecto [PPT]
 * 7.1-Machine Learning Yearing (Libro) [Book](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap05_Evaluaci%C3%B3n/Libros/NG-MLY01_13.pdf)
 
 ## Semana 14
-### Clase 27 Vie. 29-May 2026
+### Clase 27 Vie. 5-Jun 2026
 * 6.2-Clustering: K-Means [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_KMeans.pdf)
 * 6.2-Clustering: Hierarchic [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_Hierarchic.pdf)
 * 6.2-Clustering: Mixture of Gaussians [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_GaussMix.pdf)
 * 6.2-Clustering: Mean Shift [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_MeanShift.pdf)
 * 6.2-Carpeta de Códigos [Jupiter](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/tree/main/Clases/Cap06_Cluster/Python)
 
-### Clase 28 Sab. 30-May 2026:
+### Clase 28 Sab. 6-Jun 2026:
 * 6.3-BoW: Bag of Words [PPT](https://github.com/joseramoniglesias/EL453_Mineria_Datos_y_Patrones/blob/main/Clases/Cap06_Cluster/Presentaciones/EL453_06_BoW.pdf)
 * 6.3-Ejercicio en clases 
 
 ## Semana 15
-### Clase 29 Vie. 5-Jun 2026:
+### Clase 29 Vie. 12-Jun 2026:
 * 7.1-Presentacion de avances de proyecto (1/2) [Proyecto]
 
-### Clase 30 Sab. 6-Jun 202:
+### Clase 30 Sab. 13-Jun 202:
 * 7.1-Presentacion de avances de proyecto (2/2) [Proyecto]
 
 ## Semana 16
-### Clase 31 Vie. 12-Jun 2026:
+### Clase 31 Vie. 19-Jun 2026:
 * Entrega proyecto
 
-### Clase 32 Sab. 13-Jun-2026:
+### Clase 32 Sab. 20-Jun-2026:
 * Entrega proyecto
 
 _______________________________________________________
